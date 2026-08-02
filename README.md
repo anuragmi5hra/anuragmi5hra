@@ -38,11 +38,11 @@ src="https://images.seeklogo.com/logo-png/53/1/render-logo-png_seeklogo-532232.p
 #### Top Repositories
 
 <a href="https://github.com/anuragmi5hra/Bondify">
-  <img align="center" src="./assets/bf.jpeg" />
+  <img align="center" height="60px" src="./assets/bf.jpeg" />
 </a>
 
 <a href="https://github.com/anuragmi5hra/Ai_suggestion_student">
-  <img align="center" src="./assets/study.png" />
+  <img align="center" height="60px" src="./assets/study.png" />
 </a>
 
 <br />
