@@ -37,13 +37,13 @@ src="https://images.seeklogo.com/logo-png/53/1/render-logo-png_seeklogo-532232.p
 
 #### Top Repositories
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
-</a>
+<a href="https://github.com/anuragmi5hra/Bondify">
+  <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
+</a> -->
 
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
-</a>
+<a href="https://github.com/anuragmi5hra/Ai_suggestion_student">
+  <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
+</a> -->
 
 <br />
 <br />
